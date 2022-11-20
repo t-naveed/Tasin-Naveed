@@ -1,4 +1,4 @@
-# [personal-portfolio](https://tan7-njit.github.io/personal-portfolio/index.html)
+# [personal-portfolio](https://tan7-njit.github.io/Tasin-Naveed/)
 This was final project for Intro to WebDev(IS117) class of NJIT Spring 2021. Built portfolio for myself with html and css!
 
 
